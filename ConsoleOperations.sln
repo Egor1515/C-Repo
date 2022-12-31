@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleOperations", "ConsoleOperations\ConsoleOperations.csproj", "{D8132C17-DBD4-4D19-BA3C-5B38C5D0BC2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncrementDecrement", "IncrementDecrement\IncrementDecrement.csproj", "{27549075-66C9-4713-AD80-D34ED0A47E2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{D8132C17-DBD4-4D19-BA3C-5B38C5D0BC2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8132C17-DBD4-4D19-BA3C-5B38C5D0BC2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8132C17-DBD4-4D19-BA3C-5B38C5D0BC2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27549075-66C9-4713-AD80-D34ED0A47E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27549075-66C9-4713-AD80-D34ED0A47E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27549075-66C9-4713-AD80-D34ED0A47E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27549075-66C9-4713-AD80-D34ED0A47E2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
