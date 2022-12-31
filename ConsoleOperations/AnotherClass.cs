@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Text;
 
-namespace ConsoleApp1
+namespace ConsoleOperations
 {
     //CTRL + ALT + i - это команда для причесывания кода, если строчки поехали, нажимаешь и все равняется аккуратно, попробуй
-    public class AnotherClass
+    public class ConsoleOperations
     {
         static void Main()
         {

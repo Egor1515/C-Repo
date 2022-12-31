@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q928tMbGwx5W++2oxzsbrh2zR7QlbH0ASmPyYaAoWB6j04NxSQNPcq6uo9Snv/6UlFyG/P6ac6vVuESr6UpSrw==",
+  "dgSpecHash": "muJodf8RiA3RWlqgB2IYgyvTzQ9Mr03bwPKGNQYxga06OdHvUWoLoAq86324E9/LYTCXcJCE1PGbUtzpA7QyEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Egor\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\Egor\\RiderProjects\\ConsoleApp1\\ConsoleOperations\\ConsoleOperations.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Egor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
   ],
