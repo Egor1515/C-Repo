@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q928tMbGwx5W++2oxzsbrh2zR7QlbH0ASmPyYaAoWB6j04NxSQNPcq6uo9Snv/6UlFyG/P6ac6vVuESr6UpSrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Egor\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
