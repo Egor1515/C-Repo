@@ -37,7 +37,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.ConsoleApp1">
+  <component name="RunManager" selected=".NET Project.FirstProgramm">
     <configuration name="ConsoleApp1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -121,7 +121,7 @@
       <updated>1672448673797</updated>
       <workItem from="1672448674946" duration="4158000" />
       <workItem from="1672479900957" duration="62000" />
-      <workItem from="1672480142479" duration="326000" />
+      <workItem from="1672480142479" duration="3363000" />
     </task>
     <servers />
   </component>

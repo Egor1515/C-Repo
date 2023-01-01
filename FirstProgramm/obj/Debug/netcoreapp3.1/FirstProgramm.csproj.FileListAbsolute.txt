@@ -1,0 +1,13 @@
+C:\Users\Egor\RiderProjects\ConsoleApp1\FirstProgramm\bin\Debug\netcoreapp3.1\FirstProgramm.exe
+C:\Users\Egor\RiderProjects\ConsoleApp1\FirstProgramm\bin\Debug\netcoreapp3.1\FirstProgramm.deps.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\FirstProgramm\bin\Debug\netcoreapp3.1\FirstProgramm.runtimeconfig.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\FirstProgramm\bin\Debug\netcoreapp3.1\FirstProgramm.runtimeconfig.dev.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\FirstProgramm\bin\Debug\netcoreapp3.1\FirstProgramm.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\FirstProgramm\bin\Debug\netcoreapp3.1\FirstProgramm.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\FirstProgramm\obj\Debug\netcoreapp3.1\FirstProgramm.csproj.AssemblyReference.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\FirstProgramm\obj\Debug\netcoreapp3.1\FirstProgramm.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\FirstProgramm\obj\Debug\netcoreapp3.1\FirstProgramm.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\ConsoleApp1\FirstProgramm\obj\Debug\netcoreapp3.1\FirstProgramm.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\FirstProgramm\obj\Debug\netcoreapp3.1\FirstProgramm.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\FirstProgramm\obj\Debug\netcoreapp3.1\FirstProgramm.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\FirstProgramm\obj\Debug\netcoreapp3.1\FirstProgramm.genruntimeconfig.cache
