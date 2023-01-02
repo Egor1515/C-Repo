@@ -7,40 +7,11 @@
     <projectFile>ConvertTo/ConvertTo.csproj</projectFile>
     <projectFile>FirstProgramm/FirstProgramm.csproj</projectFile>
     <projectFile>IncrementDecrement/IncrementDecrement.csproj</projectFile>
+    <projectFile>LogicalOperators/LogicalOperators.csproj</projectFile>
     <projectFile>StringVarConcat/StringVarConcat.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6854a38c-35d4-4306-bc07-bac75f90a6d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ConvertTo/ConvertTo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertTo/ConvertTo.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertTo/obj/ConvertTo.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertTo/obj/ConvertTo.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertTo/obj/ConvertTo.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertTo/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertTo/obj/Debug/netcoreapp3.1/ConvertTo.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertTo/obj/Debug/netcoreapp3.1/ConvertTo.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertTo/obj/Debug/netcoreapp3.1/ConvertTo.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertTo/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertTo/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertTo/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConvertTo/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringVarConcat/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringVarConcat/StringVarConcat.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringVarConcat/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringVarConcat/obj/Debug/netcoreapp3.1/StringVarConcat.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringVarConcat/obj/Debug/netcoreapp3.1/StringVarConcat.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringVarConcat/obj/Debug/netcoreapp3.1/StringVarConcat.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringVarConcat/obj/StringVarConcat.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringVarConcat/obj/StringVarConcat.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringVarConcat/obj/StringVarConcat.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringVarConcat/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringVarConcat/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringVarConcat/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringVarConcat/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleOperations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleOperations/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConditionalOperators/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConditionalOperators/StringVarConcat.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleOperations.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleOperations.sln" afterDir="false" />
-    </list>
+    <list default="true" id="6854a38c-35d4-4306-bc07-bac75f90a6d1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -233,7 +204,7 @@
       <workItem from="1672448674946" duration="4158000" />
       <workItem from="1672479900957" duration="62000" />
       <workItem from="1672480142479" duration="3685000" />
-      <workItem from="1672629374696" duration="5958000" />
+      <workItem from="1672629374696" duration="6689000" />
     </task>
     <servers />
   </component>
