@@ -8,6 +8,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstProgramm", "FirstProgr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalOperators", "ConditionalOperators\ConditionalOperators.csproj", "{56ED9F79-BC3F-4A09-87E6-854B75E93AAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringVarConcat", "StringVarConcat\StringVarConcat.csproj", "{40902CE7-E17F-4CA6-B99A-02EE02F2DDBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertTo", "ConvertTo\ConvertTo.csproj", "{0FC786E9-CBF5-4EF7-BE6C-4AB6BA4E9D9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicalOperators", "LogicalOperators\LogicalOperators.csproj", "{1D2C0DA3-7CD2-4577-80B5-75EAA5297398}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +36,17 @@ Global
 		{56ED9F79-BC3F-4A09-87E6-854B75E93AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56ED9F79-BC3F-4A09-87E6-854B75E93AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56ED9F79-BC3F-4A09-87E6-854B75E93AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40902CE7-E17F-4CA6-B99A-02EE02F2DDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40902CE7-E17F-4CA6-B99A-02EE02F2DDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40902CE7-E17F-4CA6-B99A-02EE02F2DDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40902CE7-E17F-4CA6-B99A-02EE02F2DDBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC786E9-CBF5-4EF7-BE6C-4AB6BA4E9D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC786E9-CBF5-4EF7-BE6C-4AB6BA4E9D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC786E9-CBF5-4EF7-BE6C-4AB6BA4E9D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC786E9-CBF5-4EF7-BE6C-4AB6BA4E9D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D2C0DA3-7CD2-4577-80B5-75EAA5297398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D2C0DA3-7CD2-4577-80B5-75EAA5297398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D2C0DA3-7CD2-4577-80B5-75EAA5297398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D2C0DA3-7CD2-4577-80B5-75EAA5297398}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
