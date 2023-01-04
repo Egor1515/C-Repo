@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HsCsKMjLdQ/GmrYR8LGcZzlB5BON68um794p8qvaw7MPfUQBfxSe1TKs0VV2KlFhcxYmJdf7XERO2qI+/r8GZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Egor\\RiderProjects\\ConsoleApp1\\LogicalOperatorsComparison\\LogicalOperatorsComparison.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

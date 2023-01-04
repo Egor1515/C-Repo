@@ -1,0 +1,13 @@
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperatorsComparison\bin\Debug\netcoreapp3.1\LogicalOperatorsComparison.exe
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperatorsComparison\bin\Debug\netcoreapp3.1\LogicalOperatorsComparison.deps.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperatorsComparison\bin\Debug\netcoreapp3.1\LogicalOperatorsComparison.runtimeconfig.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperatorsComparison\bin\Debug\netcoreapp3.1\LogicalOperatorsComparison.runtimeconfig.dev.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperatorsComparison\bin\Debug\netcoreapp3.1\LogicalOperatorsComparison.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperatorsComparison\bin\Debug\netcoreapp3.1\LogicalOperatorsComparison.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperatorsComparison\obj\Debug\netcoreapp3.1\LogicalOperatorsComparison.csproj.AssemblyReference.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperatorsComparison\obj\Debug\netcoreapp3.1\LogicalOperatorsComparison.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperatorsComparison\obj\Debug\netcoreapp3.1\LogicalOperatorsComparison.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperatorsComparison\obj\Debug\netcoreapp3.1\LogicalOperatorsComparison.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperatorsComparison\obj\Debug\netcoreapp3.1\LogicalOperatorsComparison.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperatorsComparison\obj\Debug\netcoreapp3.1\LogicalOperatorsComparison.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperatorsComparison\obj\Debug\netcoreapp3.1\LogicalOperatorsComparison.genruntimeconfig.cache

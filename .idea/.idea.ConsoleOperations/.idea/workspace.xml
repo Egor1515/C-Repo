@@ -5,13 +5,85 @@
     <projectFile>ConsoleApp1/ConsoleApp1.csproj</projectFile>
     <projectFile>ConsoleOperations/ConsoleOperations.csproj</projectFile>
     <projectFile>ConvertTo/ConvertTo.csproj</projectFile>
+    <projectFile>CyclesCsharp/CyclesCsharp.csproj</projectFile>
+    <projectFile>CyclesPractice/CyclesPractice.csproj</projectFile>
     <projectFile>FirstProgramm/FirstProgramm.csproj</projectFile>
     <projectFile>IncrementDecrement/IncrementDecrement.csproj</projectFile>
     <projectFile>LogicalOperators/LogicalOperators.csproj</projectFile>
+    <projectFile>LogicalOperatorsComparison/LogicalOperatorsComparison.csproj</projectFile>
     <projectFile>StringVarConcat/StringVarConcat.csproj</projectFile>
+    <projectFile>SwitchCase/SwitchCase.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6854a38c-35d4-4306-bc07-bac75f90a6d1" name="Changes" comment="" />
+    <list default="true" id="6854a38c-35d4-4306-bc07-bac75f90a6d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/CyclesCsharp.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/CyclesCsharp.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/bin/Debug/netcoreapp3.1/CyclesCsharp.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/bin/Debug/netcoreapp3.1/CyclesCsharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/bin/Debug/netcoreapp3.1/CyclesCsharp.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/bin/Debug/netcoreapp3.1/CyclesCsharp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/bin/Debug/netcoreapp3.1/CyclesCsharp.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/bin/Debug/netcoreapp3.1/CyclesCsharp.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/CyclesCsharp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/CyclesCsharp.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/CyclesCsharp.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/CyclesPractice.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/CyclesPractice.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/CyclesPractice.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/CyclesPractice.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/CyclesPractice.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/Debug/netcoreapp3.1/CyclesPractice.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/Debug/netcoreapp3.1/CyclesPractice.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/Debug/netcoreapp3.1/CyclesPractice.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/LogicalOperatorsComparison.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/LogicalOperatorsComparison.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/bin/Debug/netcoreapp3.1/LogicalOperatorsComparison.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/bin/Debug/netcoreapp3.1/LogicalOperatorsComparison.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/bin/Debug/netcoreapp3.1/LogicalOperatorsComparison.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/bin/Debug/netcoreapp3.1/LogicalOperatorsComparison.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/bin/Debug/netcoreapp3.1/LogicalOperatorsComparison.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/bin/Debug/netcoreapp3.1/LogicalOperatorsComparison.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/LogicalOperatorsComparison.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/LogicalOperatorsComparison.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/LogicalOperatorsComparison.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleOperations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleOperations/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleOperations.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleOperations.sln" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +92,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2Jeq0YlyGSLR0F5ODiwY1GzMxVM" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -28,26 +101,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\Egor\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\Egor\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\Egor\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\Egor\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\Egor\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\Egor\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected=".NET Project.FirstProgramm">
+}</component>
+  <component name="RunManager" selected=".NET Project.CyclesCsharp">
     <configuration name="ConditionalOperators" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -120,6 +193,42 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="CyclesCsharp" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CyclesCsharp/CyclesCsharp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="CyclesPractice" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/CyclesPractice/CyclesPractice.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="FirstProgramm" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -174,6 +283,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="LogicalOperatorsComparison" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LogicalOperatorsComparison/LogicalOperatorsComparison.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="StringVarConcat" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -183,6 +310,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/StringVarConcat/StringVarConcat.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="SwitchCase" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SwitchCase/SwitchCase.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -204,13 +349,15 @@
       <workItem from="1672448674946" duration="4158000" />
       <workItem from="1672479900957" duration="62000" />
       <workItem from="1672480142479" duration="3685000" />
-      <workItem from="1672629374696" duration="6689000" />
+      <workItem from="1672629374696" duration="11179000" />
+      <workItem from="1672802268188" duration="8304000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
