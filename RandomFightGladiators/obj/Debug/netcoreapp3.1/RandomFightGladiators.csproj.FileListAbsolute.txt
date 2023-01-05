@@ -1,0 +1,13 @@
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomFightGladiators\bin\Debug\netcoreapp3.1\RandomFightGladiators.exe
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomFightGladiators\bin\Debug\netcoreapp3.1\RandomFightGladiators.deps.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomFightGladiators\bin\Debug\netcoreapp3.1\RandomFightGladiators.runtimeconfig.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomFightGladiators\bin\Debug\netcoreapp3.1\RandomFightGladiators.runtimeconfig.dev.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomFightGladiators\bin\Debug\netcoreapp3.1\RandomFightGladiators.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomFightGladiators\bin\Debug\netcoreapp3.1\RandomFightGladiators.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomFightGladiators\obj\Debug\netcoreapp3.1\RandomFightGladiators.csproj.AssemblyReference.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomFightGladiators\obj\Debug\netcoreapp3.1\RandomFightGladiators.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomFightGladiators\obj\Debug\netcoreapp3.1\RandomFightGladiators.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomFightGladiators\obj\Debug\netcoreapp3.1\RandomFightGladiators.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomFightGladiators\obj\Debug\netcoreapp3.1\RandomFightGladiators.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomFightGladiators\obj\Debug\netcoreapp3.1\RandomFightGladiators.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomFightGladiators\obj\Debug\netcoreapp3.1\RandomFightGladiators.genruntimeconfig.cache

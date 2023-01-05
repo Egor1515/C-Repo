@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dkxDhODruGz/LC/XjWzr+cmOi8u3E3emXbggqK+22EUYWS51JNU3OsJ8HhbeAaU72RVCP97FTOIKkrRM+NgbXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Egor\\RiderProjects\\ConsoleApp1\\RandomFightGladiators\\RandomFightGladiators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

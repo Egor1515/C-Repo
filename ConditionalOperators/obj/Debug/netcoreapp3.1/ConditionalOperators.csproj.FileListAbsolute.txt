@@ -1,0 +1,13 @@
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConditionalOperators\bin\Debug\netcoreapp3.1\ConditionalOperators.exe
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConditionalOperators\bin\Debug\netcoreapp3.1\ConditionalOperators.deps.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConditionalOperators\bin\Debug\netcoreapp3.1\ConditionalOperators.runtimeconfig.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConditionalOperators\bin\Debug\netcoreapp3.1\ConditionalOperators.runtimeconfig.dev.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConditionalOperators\bin\Debug\netcoreapp3.1\ConditionalOperators.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConditionalOperators\bin\Debug\netcoreapp3.1\ConditionalOperators.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConditionalOperators\obj\Debug\netcoreapp3.1\ConditionalOperators.csproj.AssemblyReference.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConditionalOperators\obj\Debug\netcoreapp3.1\ConditionalOperators.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConditionalOperators\obj\Debug\netcoreapp3.1\ConditionalOperators.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConditionalOperators\obj\Debug\netcoreapp3.1\ConditionalOperators.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConditionalOperators\obj\Debug\netcoreapp3.1\ConditionalOperators.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConditionalOperators\obj\Debug\netcoreapp3.1\ConditionalOperators.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConditionalOperators\obj\Debug\netcoreapp3.1\ConditionalOperators.genruntimeconfig.cache

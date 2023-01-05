@@ -1,0 +1,13 @@
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOperations\bin\Debug\netcoreapp3.1\ConsoleOperations.exe
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOperations\bin\Debug\netcoreapp3.1\ConsoleOperations.deps.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOperations\bin\Debug\netcoreapp3.1\ConsoleOperations.runtimeconfig.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOperations\bin\Debug\netcoreapp3.1\ConsoleOperations.runtimeconfig.dev.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOperations\bin\Debug\netcoreapp3.1\ConsoleOperations.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOperations\bin\Debug\netcoreapp3.1\ConsoleOperations.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOperations\obj\Debug\netcoreapp3.1\ConsoleOperations.csproj.AssemblyReference.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOperations\obj\Debug\netcoreapp3.1\ConsoleOperations.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOperations\obj\Debug\netcoreapp3.1\ConsoleOperations.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOperations\obj\Debug\netcoreapp3.1\ConsoleOperations.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOperations\obj\Debug\netcoreapp3.1\ConsoleOperations.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOperations\obj\Debug\netcoreapp3.1\ConsoleOperations.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOperations\obj\Debug\netcoreapp3.1\ConsoleOperations.genruntimeconfig.cache

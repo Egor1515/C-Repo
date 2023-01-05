@@ -1,0 +1,13 @@
+C:\Users\Egor\RiderProjects\ConsoleApp1\CyclesPractice\bin\Debug\netcoreapp3.1\CyclesPractice.exe
+C:\Users\Egor\RiderProjects\ConsoleApp1\CyclesPractice\bin\Debug\netcoreapp3.1\CyclesPractice.deps.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\CyclesPractice\bin\Debug\netcoreapp3.1\CyclesPractice.runtimeconfig.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\CyclesPractice\bin\Debug\netcoreapp3.1\CyclesPractice.runtimeconfig.dev.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\CyclesPractice\bin\Debug\netcoreapp3.1\CyclesPractice.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\CyclesPractice\bin\Debug\netcoreapp3.1\CyclesPractice.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\CyclesPractice\obj\Debug\netcoreapp3.1\CyclesPractice.csproj.AssemblyReference.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\CyclesPractice\obj\Debug\netcoreapp3.1\CyclesPractice.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\CyclesPractice\obj\Debug\netcoreapp3.1\CyclesPractice.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\ConsoleApp1\CyclesPractice\obj\Debug\netcoreapp3.1\CyclesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\CyclesPractice\obj\Debug\netcoreapp3.1\CyclesPractice.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\CyclesPractice\obj\Debug\netcoreapp3.1\CyclesPractice.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\CyclesPractice\obj\Debug\netcoreapp3.1\CyclesPractice.genruntimeconfig.cache

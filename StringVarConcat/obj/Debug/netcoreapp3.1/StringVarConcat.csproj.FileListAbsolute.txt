@@ -1,0 +1,13 @@
+C:\Users\Egor\RiderProjects\ConsoleApp1\StringVarConcat\bin\Debug\netcoreapp3.1\StringVarConcat.exe
+C:\Users\Egor\RiderProjects\ConsoleApp1\StringVarConcat\bin\Debug\netcoreapp3.1\StringVarConcat.deps.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\StringVarConcat\bin\Debug\netcoreapp3.1\StringVarConcat.runtimeconfig.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\StringVarConcat\bin\Debug\netcoreapp3.1\StringVarConcat.runtimeconfig.dev.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\StringVarConcat\bin\Debug\netcoreapp3.1\StringVarConcat.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\StringVarConcat\bin\Debug\netcoreapp3.1\StringVarConcat.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\StringVarConcat\obj\Debug\netcoreapp3.1\StringVarConcat.csproj.AssemblyReference.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\StringVarConcat\obj\Debug\netcoreapp3.1\StringVarConcat.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\StringVarConcat\obj\Debug\netcoreapp3.1\StringVarConcat.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\ConsoleApp1\StringVarConcat\obj\Debug\netcoreapp3.1\StringVarConcat.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\StringVarConcat\obj\Debug\netcoreapp3.1\StringVarConcat.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\StringVarConcat\obj\Debug\netcoreapp3.1\StringVarConcat.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\StringVarConcat\obj\Debug\netcoreapp3.1\StringVarConcat.genruntimeconfig.cache

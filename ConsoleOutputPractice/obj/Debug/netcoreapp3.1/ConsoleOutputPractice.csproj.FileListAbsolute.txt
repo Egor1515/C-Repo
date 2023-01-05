@@ -1,0 +1,13 @@
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOutputPractice\bin\Debug\netcoreapp3.1\ConsoleOutputPractice.exe
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOutputPractice\bin\Debug\netcoreapp3.1\ConsoleOutputPractice.deps.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOutputPractice\bin\Debug\netcoreapp3.1\ConsoleOutputPractice.runtimeconfig.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOutputPractice\bin\Debug\netcoreapp3.1\ConsoleOutputPractice.runtimeconfig.dev.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOutputPractice\bin\Debug\netcoreapp3.1\ConsoleOutputPractice.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOutputPractice\bin\Debug\netcoreapp3.1\ConsoleOutputPractice.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOutputPractice\obj\Debug\netcoreapp3.1\ConsoleOutputPractice.csproj.AssemblyReference.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOutputPractice\obj\Debug\netcoreapp3.1\ConsoleOutputPractice.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOutputPractice\obj\Debug\netcoreapp3.1\ConsoleOutputPractice.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOutputPractice\obj\Debug\netcoreapp3.1\ConsoleOutputPractice.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOutputPractice\obj\Debug\netcoreapp3.1\ConsoleOutputPractice.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOutputPractice\obj\Debug\netcoreapp3.1\ConsoleOutputPractice.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConsoleOutputPractice\obj\Debug\netcoreapp3.1\ConsoleOutputPractice.genruntimeconfig.cache

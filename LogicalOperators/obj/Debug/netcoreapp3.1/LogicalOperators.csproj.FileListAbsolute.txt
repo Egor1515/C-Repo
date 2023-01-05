@@ -1,0 +1,13 @@
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.exe
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.deps.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.runtimeconfig.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.runtimeconfig.dev.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperators\bin\Debug\netcoreapp3.1\LogicalOperators.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.csproj.AssemblyReference.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\LogicalOperators\obj\Debug\netcoreapp3.1\LogicalOperators.genruntimeconfig.cache

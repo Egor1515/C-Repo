@@ -1,0 +1,12 @@
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConvertTo\bin\Debug\netcoreapp3.1\ConvertTo.exe
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConvertTo\bin\Debug\netcoreapp3.1\ConvertTo.deps.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConvertTo\bin\Debug\netcoreapp3.1\ConvertTo.runtimeconfig.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConvertTo\bin\Debug\netcoreapp3.1\ConvertTo.runtimeconfig.dev.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConvertTo\bin\Debug\netcoreapp3.1\ConvertTo.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConvertTo\bin\Debug\netcoreapp3.1\ConvertTo.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConvertTo\obj\Debug\netcoreapp3.1\ConvertTo.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConvertTo\obj\Debug\netcoreapp3.1\ConvertTo.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConvertTo\obj\Debug\netcoreapp3.1\ConvertTo.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConvertTo\obj\Debug\netcoreapp3.1\ConvertTo.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConvertTo\obj\Debug\netcoreapp3.1\ConvertTo.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\ConvertTo\obj\Debug\netcoreapp3.1\ConvertTo.genruntimeconfig.cache

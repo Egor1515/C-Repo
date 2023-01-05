@@ -1,0 +1,12 @@
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomGame\bin\Debug\netcoreapp3.1\RandomGame.exe
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomGame\bin\Debug\netcoreapp3.1\RandomGame.deps.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomGame\bin\Debug\netcoreapp3.1\RandomGame.runtimeconfig.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomGame\bin\Debug\netcoreapp3.1\RandomGame.runtimeconfig.dev.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomGame\bin\Debug\netcoreapp3.1\RandomGame.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomGame\bin\Debug\netcoreapp3.1\RandomGame.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomGame\obj\Debug\netcoreapp3.1\RandomGame.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomGame\obj\Debug\netcoreapp3.1\RandomGame.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomGame\obj\Debug\netcoreapp3.1\RandomGame.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomGame\obj\Debug\netcoreapp3.1\RandomGame.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomGame\obj\Debug\netcoreapp3.1\RandomGame.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\RandomGame\obj\Debug\netcoreapp3.1\RandomGame.genruntimeconfig.cache

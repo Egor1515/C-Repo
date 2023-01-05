@@ -4,6 +4,7 @@
     <projectFile>ConditionalOperators/ConditionalOperators.csproj</projectFile>
     <projectFile>ConsoleApp1/ConsoleApp1.csproj</projectFile>
     <projectFile>ConsoleOperations/ConsoleOperations.csproj</projectFile>
+    <projectFile>ConsoleOutputPractice/ConsoleOutputPractice.csproj</projectFile>
     <projectFile>ConvertTo/ConvertTo.csproj</projectFile>
     <projectFile>CyclesCsharp/CyclesCsharp.csproj</projectFile>
     <projectFile>CyclesPractice/CyclesPractice.csproj</projectFile>
@@ -11,83 +12,241 @@
     <projectFile>IncrementDecrement/IncrementDecrement.csproj</projectFile>
     <projectFile>LogicalOperators/LogicalOperators.csproj</projectFile>
     <projectFile>LogicalOperatorsComparison/LogicalOperatorsComparison.csproj</projectFile>
+    <projectFile>Random/Random.csproj</projectFile>
+    <projectFile>RandomFightGladiators/RandomFightGladiators.csproj</projectFile>
+    <projectFile>RandomGame/RandomGame.csproj</projectFile>
     <projectFile>StringVarConcat/StringVarConcat.csproj</projectFile>
     <projectFile>SwitchCase/SwitchCase.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6854a38c-35d4-4306-bc07-bac75f90a6d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/CyclesCsharp.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/CyclesCsharp.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/bin/Debug/netcoreapp3.1/CyclesCsharp.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/bin/Debug/netcoreapp3.1/CyclesCsharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/bin/Debug/netcoreapp3.1/CyclesCsharp.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/bin/Debug/netcoreapp3.1/CyclesCsharp.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/bin/Debug/netcoreapp3.1/CyclesCsharp.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/bin/Debug/netcoreapp3.1/CyclesCsharp.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/CyclesCsharp.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/CyclesCsharp.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/CyclesCsharp.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesCsharp/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesPractice/CyclesPractice.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesPractice/CyclesPractice.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/CyclesPractice.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/CyclesPractice.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/CyclesPractice.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/Debug/netcoreapp3.1/CyclesPractice.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/Debug/netcoreapp3.1/CyclesPractice.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/Debug/netcoreapp3.1/CyclesPractice.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/LogicalOperatorsComparison.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/LogicalOperatorsComparison.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/bin/Debug/netcoreapp3.1/LogicalOperatorsComparison.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/bin/Debug/netcoreapp3.1/LogicalOperatorsComparison.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/bin/Debug/netcoreapp3.1/LogicalOperatorsComparison.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/bin/Debug/netcoreapp3.1/LogicalOperatorsComparison.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/bin/Debug/netcoreapp3.1/LogicalOperatorsComparison.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/bin/Debug/netcoreapp3.1/LogicalOperatorsComparison.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/LogicalOperatorsComparison.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/LogicalOperatorsComparison.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/LogicalOperatorsComparison.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/rider.project.restore.info" afterDir="false" />
+    <list default="true" id="6854a38c-35d4-4306-bc07-bac75f90a6d1" name="Changes" comment="k">
+      <change afterPath="$PROJECT_DIR$/ConditionalOperators/bin/Debug/netcoreapp3.1/ConditionalOperators.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConditionalOperators/bin/Debug/netcoreapp3.1/ConditionalOperators.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConditionalOperators/bin/Debug/netcoreapp3.1/ConditionalOperators.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConditionalOperators/bin/Debug/netcoreapp3.1/ConditionalOperators.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConditionalOperators/bin/Debug/netcoreapp3.1/ConditionalOperators.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConditionalOperators/bin/Debug/netcoreapp3.1/ConditionalOperators.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConditionalOperators/obj/Debug/netcoreapp3.1/ConditionalOperators.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConditionalOperators/obj/Debug/netcoreapp3.1/ConditionalOperators.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConditionalOperators/obj/Debug/netcoreapp3.1/ConditionalOperators.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConditionalOperators/obj/Debug/netcoreapp3.1/ConditionalOperators.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConditionalOperators/obj/Debug/netcoreapp3.1/ConditionalOperators.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConditionalOperators/obj/Debug/netcoreapp3.1/ConditionalOperators.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConditionalOperators/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOperations/bin/Debug/netcoreapp3.1/ConsoleOperations.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOperations/bin/Debug/netcoreapp3.1/ConsoleOperations.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOperations/bin/Debug/netcoreapp3.1/ConsoleOperations.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOperations/bin/Debug/netcoreapp3.1/ConsoleOperations.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOperations/bin/Debug/netcoreapp3.1/ConsoleOperations.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOperations/bin/Debug/netcoreapp3.1/ConsoleOperations.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOperations/obj/Debug/netcoreapp3.1/ConsoleOperations.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOperations/obj/Debug/netcoreapp3.1/ConsoleOperations.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOperations/obj/Debug/netcoreapp3.1/ConsoleOperations.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOperations/obj/Debug/netcoreapp3.1/ConsoleOperations.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOperations/obj/Debug/netcoreapp3.1/ConsoleOperations.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOperations/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/ConsoleOutputPractice.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/bin/Debug/netcoreapp3.1/ConsoleOutputPractice.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/bin/Debug/netcoreapp3.1/ConsoleOutputPractice.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/bin/Debug/netcoreapp3.1/ConsoleOutputPractice.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/bin/Debug/netcoreapp3.1/ConsoleOutputPractice.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/bin/Debug/netcoreapp3.1/ConsoleOutputPractice.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/bin/Debug/netcoreapp3.1/ConsoleOutputPractice.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/obj/ConsoleOutputPractice.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/obj/ConsoleOutputPractice.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/obj/ConsoleOutputPractice.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/obj/Debug/netcoreapp3.1/ConsoleOutputPractice.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/obj/Debug/netcoreapp3.1/ConsoleOutputPractice.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/obj/Debug/netcoreapp3.1/ConsoleOutputPractice.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/obj/Debug/netcoreapp3.1/ConsoleOutputPractice.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/obj/Debug/netcoreapp3.1/ConsoleOutputPractice.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/obj/Debug/netcoreapp3.1/ConsoleOutputPractice.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/obj/Debug/netcoreapp3.1/ConsoleOutputPractice.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/obj/Debug/netcoreapp3.1/ConsoleOutputPractice.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/obj/Debug/netcoreapp3.1/ConsoleOutputPractice.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleOutputPractice/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvertTo/bin/Debug/netcoreapp3.1/ConvertTo.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvertTo/bin/Debug/netcoreapp3.1/ConvertTo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvertTo/bin/Debug/netcoreapp3.1/ConvertTo.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvertTo/bin/Debug/netcoreapp3.1/ConvertTo.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvertTo/bin/Debug/netcoreapp3.1/ConvertTo.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvertTo/bin/Debug/netcoreapp3.1/ConvertTo.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvertTo/obj/Debug/netcoreapp3.1/ConvertTo.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvertTo/obj/Debug/netcoreapp3.1/ConvertTo.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvertTo/obj/Debug/netcoreapp3.1/ConvertTo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvertTo/obj/Debug/netcoreapp3.1/ConvertTo.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvertTo/obj/Debug/netcoreapp3.1/ConvertTo.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConvertTo/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/bin/Debug/netcoreapp3.1/CyclesPractice.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/bin/Debug/netcoreapp3.1/CyclesPractice.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/bin/Debug/netcoreapp3.1/CyclesPractice.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/bin/Debug/netcoreapp3.1/CyclesPractice.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/bin/Debug/netcoreapp3.1/CyclesPractice.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/bin/Debug/netcoreapp3.1/CyclesPractice.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/Debug/netcoreapp3.1/CyclesPractice.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/Debug/netcoreapp3.1/CyclesPractice.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/Debug/netcoreapp3.1/CyclesPractice.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/Debug/netcoreapp3.1/CyclesPractice.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/Debug/netcoreapp3.1/CyclesPractice.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/Debug/netcoreapp3.1/CyclesPractice.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CyclesPractice/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IncrementDecrement/bin/Debug/netcoreapp3.1/IncrementDecrement.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IncrementDecrement/bin/Debug/netcoreapp3.1/IncrementDecrement.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IncrementDecrement/bin/Debug/netcoreapp3.1/IncrementDecrement.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IncrementDecrement/bin/Debug/netcoreapp3.1/IncrementDecrement.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IncrementDecrement/bin/Debug/netcoreapp3.1/IncrementDecrement.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IncrementDecrement/bin/Debug/netcoreapp3.1/IncrementDecrement.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IncrementDecrement/obj/Debug/netcoreapp3.1/IncrementDecrement.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IncrementDecrement/obj/Debug/netcoreapp3.1/IncrementDecrement.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IncrementDecrement/obj/Debug/netcoreapp3.1/IncrementDecrement.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IncrementDecrement/obj/Debug/netcoreapp3.1/IncrementDecrement.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IncrementDecrement/obj/Debug/netcoreapp3.1/IncrementDecrement.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IncrementDecrement/obj/Debug/netcoreapp3.1/IncrementDecrement.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IncrementDecrement/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperators/bin/Debug/netcoreapp3.1/LogicalOperators.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperators/bin/Debug/netcoreapp3.1/LogicalOperators.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperators/bin/Debug/netcoreapp3.1/LogicalOperators.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperators/bin/Debug/netcoreapp3.1/LogicalOperators.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperators/bin/Debug/netcoreapp3.1/LogicalOperators.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperators/bin/Debug/netcoreapp3.1/LogicalOperators.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperators/obj/Debug/netcoreapp3.1/LogicalOperators.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperators/obj/Debug/netcoreapp3.1/LogicalOperators.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperators/obj/Debug/netcoreapp3.1/LogicalOperators.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperators/obj/Debug/netcoreapp3.1/LogicalOperators.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperators/obj/Debug/netcoreapp3.1/LogicalOperators.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperators/obj/Debug/netcoreapp3.1/LogicalOperators.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LogicalOperators/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/Random.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/Random.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/bin/Debug/netcoreapp3.1/Random.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/bin/Debug/netcoreapp3.1/Random.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/bin/Debug/netcoreapp3.1/Random.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/bin/Debug/netcoreapp3.1/Random.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/bin/Debug/netcoreapp3.1/Random.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/bin/Debug/netcoreapp3.1/Random.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/obj/Debug/netcoreapp3.1/Random.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/obj/Debug/netcoreapp3.1/Random.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/obj/Debug/netcoreapp3.1/Random.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/obj/Debug/netcoreapp3.1/Random.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/obj/Debug/netcoreapp3.1/Random.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/obj/Debug/netcoreapp3.1/Random.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/obj/Debug/netcoreapp3.1/Random.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/obj/Debug/netcoreapp3.1/Random.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/obj/Debug/netcoreapp3.1/Random.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/obj/Random.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/obj/Random.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/obj/Random.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/RandomFightGladiators.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/bin/Debug/netcoreapp3.1/RandomFightGladiators.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/bin/Debug/netcoreapp3.1/RandomFightGladiators.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/bin/Debug/netcoreapp3.1/RandomFightGladiators.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/bin/Debug/netcoreapp3.1/RandomFightGladiators.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/bin/Debug/netcoreapp3.1/RandomFightGladiators.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/bin/Debug/netcoreapp3.1/RandomFightGladiators.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/obj/Debug/netcoreapp3.1/RandomFightGladiators.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/obj/Debug/netcoreapp3.1/RandomFightGladiators.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/obj/Debug/netcoreapp3.1/RandomFightGladiators.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/obj/Debug/netcoreapp3.1/RandomFightGladiators.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/obj/Debug/netcoreapp3.1/RandomFightGladiators.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/obj/Debug/netcoreapp3.1/RandomFightGladiators.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/obj/Debug/netcoreapp3.1/RandomFightGladiators.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/obj/Debug/netcoreapp3.1/RandomFightGladiators.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/obj/Debug/netcoreapp3.1/RandomFightGladiators.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/obj/RandomFightGladiators.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/obj/RandomFightGladiators.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/obj/RandomFightGladiators.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomFightGladiators/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/RandomGame.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/bin/Debug/netcoreapp3.1/RandomGame.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/bin/Debug/netcoreapp3.1/RandomGame.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/bin/Debug/netcoreapp3.1/RandomGame.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/bin/Debug/netcoreapp3.1/RandomGame.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/bin/Debug/netcoreapp3.1/RandomGame.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/bin/Debug/netcoreapp3.1/RandomGame.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/obj/Debug/netcoreapp3.1/RandomGame.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/obj/Debug/netcoreapp3.1/RandomGame.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/obj/Debug/netcoreapp3.1/RandomGame.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/obj/Debug/netcoreapp3.1/RandomGame.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/obj/Debug/netcoreapp3.1/RandomGame.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/obj/Debug/netcoreapp3.1/RandomGame.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/obj/Debug/netcoreapp3.1/RandomGame.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/obj/Debug/netcoreapp3.1/RandomGame.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/obj/RandomGame.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/obj/RandomGame.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/obj/RandomGame.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RandomGame/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringVarConcat/bin/Debug/netcoreapp3.1/StringVarConcat.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringVarConcat/bin/Debug/netcoreapp3.1/StringVarConcat.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringVarConcat/bin/Debug/netcoreapp3.1/StringVarConcat.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringVarConcat/bin/Debug/netcoreapp3.1/StringVarConcat.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringVarConcat/bin/Debug/netcoreapp3.1/StringVarConcat.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringVarConcat/bin/Debug/netcoreapp3.1/StringVarConcat.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringVarConcat/obj/Debug/netcoreapp3.1/StringVarConcat.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringVarConcat/obj/Debug/netcoreapp3.1/StringVarConcat.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringVarConcat/obj/Debug/netcoreapp3.1/StringVarConcat.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringVarConcat/obj/Debug/netcoreapp3.1/StringVarConcat.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringVarConcat/obj/Debug/netcoreapp3.1/StringVarConcat.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringVarConcat/obj/Debug/netcoreapp3.1/StringVarConcat.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringVarConcat/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwitchCase/bin/Debug/netcoreapp3.1/SwitchCase.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwitchCase/bin/Debug/netcoreapp3.1/SwitchCase.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwitchCase/bin/Debug/netcoreapp3.1/SwitchCase.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwitchCase/bin/Debug/netcoreapp3.1/SwitchCase.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwitchCase/bin/Debug/netcoreapp3.1/SwitchCase.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwitchCase/bin/Debug/netcoreapp3.1/SwitchCase.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwitchCase/obj/Debug/netcoreapp3.1/SwitchCase.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwitchCase/obj/Debug/netcoreapp3.1/SwitchCase.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwitchCase/obj/Debug/netcoreapp3.1/SwitchCase.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwitchCase/obj/Debug/netcoreapp3.1/SwitchCase.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwitchCase/obj/Debug/netcoreapp3.1/SwitchCase.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SwitchCase/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleOperations/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleOperations/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleOperations.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleOperations.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleOperations/obj/Debug/netcoreapp3.1/ConsoleOperations.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleOperations/obj/Debug/netcoreapp3.1/ConsoleOperations.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyclesCsharp/bin/Debug/netcoreapp3.1/CyclesCsharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CyclesCsharp/bin/Debug/netcoreapp3.1/CyclesCsharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyclesCsharp/bin/Debug/netcoreapp3.1/CyclesCsharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CyclesCsharp/bin/Debug/netcoreapp3.1/CyclesCsharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CyclesCsharp/obj/Debug/netcoreapp3.1/CyclesCsharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProgramm/obj/Debug/netcoreapp3.1/FirstProgramm.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProgramm/obj/Debug/netcoreapp3.1/FirstProgramm.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LogicalOperatorsComparison/bin/Debug/netcoreapp3.1/LogicalOperatorsComparison.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/bin/Debug/netcoreapp3.1/LogicalOperatorsComparison.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LogicalOperatorsComparison/bin/Debug/netcoreapp3.1/LogicalOperatorsComparison.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/bin/Debug/netcoreapp3.1/LogicalOperatorsComparison.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LogicalOperatorsComparison/obj/Debug/netcoreapp3.1/LogicalOperatorsComparison.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/602d7e3410e82e49afe42159901270f0e7a5cc6c669f777ed09911a7496b4c7b/Random.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/a3fd172f89d7bea669bd8944468f7b366e4c441fde15361032cc85c15be5a5/Int32.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -120,7 +279,25 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.CyclesCsharp">
+  <component name="RunManager" selected=".NET Project.Arrays">
+    <configuration name="Arrays" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Arrays/Arrays.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="ConditionalOperators" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -166,6 +343,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleOperations/ConsoleOperations.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleOutputPractice" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleOutputPractice/ConsoleOutputPractice.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -301,6 +496,60 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Random" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Random/Random.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="RandomFightGladiators" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RandomFightGladiators/RandomFightGladiators.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="RandomGame" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RandomGame/RandomGame.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="StringVarConcat" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -350,7 +599,8 @@
       <workItem from="1672479900957" duration="62000" />
       <workItem from="1672480142479" duration="3685000" />
       <workItem from="1672629374696" duration="11179000" />
-      <workItem from="1672802268188" duration="8304000" />
+      <workItem from="1672802268188" duration="13546000" />
+      <workItem from="1672901748397" duration="1320000" />
     </task>
     <servers />
   </component>
