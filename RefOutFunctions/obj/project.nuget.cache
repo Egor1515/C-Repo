@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tEDK19w5CdtiW1ZtYTatCAIrwn5YEDszrM60+X9xd8ytqxlFp9Irzvj6Nn1a+rSkNuqkC+vTvHcxH2e/U3N5Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Egor\\RiderProjects\\ConsoleApp1\\RefOutFunctions\\RefOutFunctions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

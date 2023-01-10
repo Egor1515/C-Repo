@@ -1,0 +1,13 @@
+C:\Users\Egor\RiderProjects\ConsoleApp1\Override\bin\Debug\netcoreapp3.1\Override.exe
+C:\Users\Egor\RiderProjects\ConsoleApp1\Override\bin\Debug\netcoreapp3.1\Override.deps.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\Override\bin\Debug\netcoreapp3.1\Override.runtimeconfig.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\Override\bin\Debug\netcoreapp3.1\Override.runtimeconfig.dev.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\Override\bin\Debug\netcoreapp3.1\Override.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\Override\bin\Debug\netcoreapp3.1\Override.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\Override\obj\Debug\netcoreapp3.1\Override.csproj.AssemblyReference.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\Override\obj\Debug\netcoreapp3.1\Override.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\Override\obj\Debug\netcoreapp3.1\Override.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\ConsoleApp1\Override\obj\Debug\netcoreapp3.1\Override.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\Override\obj\Debug\netcoreapp3.1\Override.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\Override\obj\Debug\netcoreapp3.1\Override.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\Override\obj\Debug\netcoreapp3.1\Override.genruntimeconfig.cache

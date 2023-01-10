@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3gH/EeihYG9cUzL7AbsvYroHmMzrz5f+oAfmGSexyOxchwCzb1H9WPa8R2fO5Cn5Mv+Yi63zIIqfOVIaardLVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Egor\\RiderProjects\\ConsoleApp1\\Override\\Override.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

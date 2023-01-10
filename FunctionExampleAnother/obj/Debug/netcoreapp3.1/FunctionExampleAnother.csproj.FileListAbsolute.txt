@@ -1,0 +1,13 @@
+C:\Users\Egor\RiderProjects\ConsoleApp1\FunctionExampleAnother\bin\Debug\netcoreapp3.1\FunctionExampleAnother.exe
+C:\Users\Egor\RiderProjects\ConsoleApp1\FunctionExampleAnother\bin\Debug\netcoreapp3.1\FunctionExampleAnother.deps.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\FunctionExampleAnother\bin\Debug\netcoreapp3.1\FunctionExampleAnother.runtimeconfig.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\FunctionExampleAnother\bin\Debug\netcoreapp3.1\FunctionExampleAnother.runtimeconfig.dev.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\FunctionExampleAnother\bin\Debug\netcoreapp3.1\FunctionExampleAnother.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\FunctionExampleAnother\bin\Debug\netcoreapp3.1\FunctionExampleAnother.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\FunctionExampleAnother\obj\Debug\netcoreapp3.1\FunctionExampleAnother.csproj.AssemblyReference.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\FunctionExampleAnother\obj\Debug\netcoreapp3.1\FunctionExampleAnother.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\FunctionExampleAnother\obj\Debug\netcoreapp3.1\FunctionExampleAnother.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\ConsoleApp1\FunctionExampleAnother\obj\Debug\netcoreapp3.1\FunctionExampleAnother.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\FunctionExampleAnother\obj\Debug\netcoreapp3.1\FunctionExampleAnother.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\FunctionExampleAnother\obj\Debug\netcoreapp3.1\FunctionExampleAnother.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\FunctionExampleAnother\obj\Debug\netcoreapp3.1\FunctionExampleAnother.genruntimeconfig.cache

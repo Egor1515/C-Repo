@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/QNJrNEZL/l9MKHdfyTQJ3H6YDBuJyF2h5rAmtwxaI1ZXPglDjwJEbD6eFNfxGpjkGPaCLiey+n6oSV3KgBGDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Egor\\RiderProjects\\ConsoleApp1\\ArraysAirPlanesPractice\\ArraysAirPlanesPractice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultiDimensionalArraysPractice\bin\Debug\netcoreapp3.1\MultiDimensionalArraysPractice.exe
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultiDimensionalArraysPractice\bin\Debug\netcoreapp3.1\MultiDimensionalArraysPractice.deps.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultiDimensionalArraysPractice\bin\Debug\netcoreapp3.1\MultiDimensionalArraysPractice.runtimeconfig.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultiDimensionalArraysPractice\bin\Debug\netcoreapp3.1\MultiDimensionalArraysPractice.runtimeconfig.dev.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultiDimensionalArraysPractice\bin\Debug\netcoreapp3.1\MultiDimensionalArraysPractice.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultiDimensionalArraysPractice\bin\Debug\netcoreapp3.1\MultiDimensionalArraysPractice.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultiDimensionalArraysPractice\obj\Debug\netcoreapp3.1\MultiDimensionalArraysPractice.csproj.AssemblyReference.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultiDimensionalArraysPractice\obj\Debug\netcoreapp3.1\MultiDimensionalArraysPractice.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultiDimensionalArraysPractice\obj\Debug\netcoreapp3.1\MultiDimensionalArraysPractice.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultiDimensionalArraysPractice\obj\Debug\netcoreapp3.1\MultiDimensionalArraysPractice.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultiDimensionalArraysPractice\obj\Debug\netcoreapp3.1\MultiDimensionalArraysPractice.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultiDimensionalArraysPractice\obj\Debug\netcoreapp3.1\MultiDimensionalArraysPractice.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultiDimensionalArraysPractice\obj\Debug\netcoreapp3.1\MultiDimensionalArraysPractice.genruntimeconfig.cache

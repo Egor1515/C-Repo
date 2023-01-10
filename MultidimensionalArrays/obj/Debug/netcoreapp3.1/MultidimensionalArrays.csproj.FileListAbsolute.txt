@@ -1,0 +1,13 @@
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultidimensionalArrays\bin\Debug\netcoreapp3.1\MultidimensionalArrays.exe
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultidimensionalArrays\bin\Debug\netcoreapp3.1\MultidimensionalArrays.deps.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultidimensionalArrays\bin\Debug\netcoreapp3.1\MultidimensionalArrays.runtimeconfig.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultidimensionalArrays\bin\Debug\netcoreapp3.1\MultidimensionalArrays.runtimeconfig.dev.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultidimensionalArrays\bin\Debug\netcoreapp3.1\MultidimensionalArrays.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultidimensionalArrays\bin\Debug\netcoreapp3.1\MultidimensionalArrays.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultidimensionalArrays\obj\Debug\netcoreapp3.1\MultidimensionalArrays.csproj.AssemblyReference.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultidimensionalArrays\obj\Debug\netcoreapp3.1\MultidimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultidimensionalArrays\obj\Debug\netcoreapp3.1\MultidimensionalArrays.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultidimensionalArrays\obj\Debug\netcoreapp3.1\MultidimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultidimensionalArrays\obj\Debug\netcoreapp3.1\MultidimensionalArrays.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultidimensionalArrays\obj\Debug\netcoreapp3.1\MultidimensionalArrays.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\MultidimensionalArrays\obj\Debug\netcoreapp3.1\MultidimensionalArrays.genruntimeconfig.cache

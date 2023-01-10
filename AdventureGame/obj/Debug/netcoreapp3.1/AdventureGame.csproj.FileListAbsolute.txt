@@ -1,0 +1,13 @@
+C:\Users\Egor\RiderProjects\ConsoleApp1\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.exe
+C:\Users\Egor\RiderProjects\ConsoleApp1\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.deps.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.runtimeconfig.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.runtimeconfig.dev.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\AdventureGame\bin\Debug\netcoreapp3.1\AdventureGame.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.csproj.AssemblyReference.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\ConsoleApp1\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\AdventureGame\obj\Debug\netcoreapp3.1\AdventureGame.genruntimeconfig.cache

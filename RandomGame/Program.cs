@@ -6,37 +6,38 @@ namespace RandomGame
     {
         static void Main(string[] args)
         {
-            int number;
-            int lower, higher;
-            int triesCount = 5;
-            int userInput;
-            Random rand = new Random();
+            // программа по угадыванию чисел
+            int number;// переменная самого числа
+            int lower, higher; // переменные для нижнего и верхнего порога, с той целью чтобы ограничить поиск пользователя а не заставлять его от 1 до 100 угадывать одно число, те мы можем сказать,что загадали от 0 до 100 но это число больше 50 и меньше 80 и тогда поиск сужается
+            int triesCount = 5;// переменная для того чтобы дальше отображать количество попыток
+            int userInput; // и переменная для ввода пользователем собственно самого числа
+            Random rand = new Random(); // подключаем рандомайзер
 
-            number = rand.Next(0, 101);
-            lower = rand.Next(number - 10, number);
-            higher = rand.Next(number + 10, number + 10);
+            number = rand.Next(0, 101);// создаем рандомное число от 0 до 100, потому что правая граница не включена
+            lower = rand.Next(number - 10, number); // далее например показываем число на 10 меньше 
+            higher = rand.Next(number + 10, number + 10);// и на 10 больше, сужая поиск до 20, для удобства
 
-            Console.WriteLine($"Мы загадали число от 0 до 100, оно больше чем {lower}, но меньше чем {higher}");
-            Console.WriteLine($"Что это за число? у вас {triesCount} попыток угадать");
+            Console.WriteLine($"Мы загадали число от 0 до 100, оно больше чем {lower}, но меньше чем {higher}"); // вывыодим в консоль от скольки до скольки загадали и показываем больше меньше
+            Console.WriteLine($"Что это за число? у вас {triesCount} попыток угадать");// просим начать угадать и изначально выводим количество попыток
 
-            while (triesCount-- > 0)
+            while (triesCount-- > 0)// создаем цикл While условием которого логично будет выступать количество попыток, которые пока не закончатся - цикл будет гоняться
             {
-                Console.WriteLine("Ваш ответ: ");
-                userInput = Convert.ToInt32(Console.ReadLine());
-                if (userInput == number)
+                Console.WriteLine("Ваш ответ: "); // дальше просим ввести ответ
+                userInput = Convert.ToInt32(Console.ReadLine()); // считываем и сохраняем ответ в переменную
+                if (userInput == number) // сравниваем изначально загаданное с введенным
                 {
-                    Console.WriteLine("Вы правы, это было число " + number + ".");
+                    Console.WriteLine("Вы правы, это было число " + number + ".");// в случае угадывания заходим сюда,вывыодим сообщение и делаем break, который ниже
                     break;
                 }
                 else
                 {
-                    Console.WriteLine("Не угадали, попробуйте еще раз");
+                    Console.WriteLine("Не угадали, попробуйте еще раз"); // в случае неудачи, выводим это сообщение и возвращаемся в начало цикла while
                 }
             }
 
-            if (triesCount < 0)
+            if (triesCount < 0) // когда попытки закончатся  зайдем сюда и выведем сообщение
             {
-                Console.WriteLine("Вы проиграли, число было: " + number);
+                Console.WriteLine("Вы проиграли, число было: " + number); // мол вы проиграли, загаданное число было такое то
             }
         }
     }

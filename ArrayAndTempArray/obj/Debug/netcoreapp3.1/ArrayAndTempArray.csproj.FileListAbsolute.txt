@@ -1,0 +1,13 @@
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArrayAndTempArray\bin\Debug\netcoreapp3.1\ArrayAndTempArray.exe
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArrayAndTempArray\bin\Debug\netcoreapp3.1\ArrayAndTempArray.deps.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArrayAndTempArray\bin\Debug\netcoreapp3.1\ArrayAndTempArray.runtimeconfig.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArrayAndTempArray\bin\Debug\netcoreapp3.1\ArrayAndTempArray.runtimeconfig.dev.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArrayAndTempArray\bin\Debug\netcoreapp3.1\ArrayAndTempArray.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArrayAndTempArray\bin\Debug\netcoreapp3.1\ArrayAndTempArray.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArrayAndTempArray\obj\Debug\netcoreapp3.1\ArrayAndTempArray.csproj.AssemblyReference.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArrayAndTempArray\obj\Debug\netcoreapp3.1\ArrayAndTempArray.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArrayAndTempArray\obj\Debug\netcoreapp3.1\ArrayAndTempArray.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArrayAndTempArray\obj\Debug\netcoreapp3.1\ArrayAndTempArray.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArrayAndTempArray\obj\Debug\netcoreapp3.1\ArrayAndTempArray.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArrayAndTempArray\obj\Debug\netcoreapp3.1\ArrayAndTempArray.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArrayAndTempArray\obj\Debug\netcoreapp3.1\ArrayAndTempArray.genruntimeconfig.cache

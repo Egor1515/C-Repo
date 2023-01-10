@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wBfZ8Ibl8+BOUjum2L405h7+HqL72A7f9da1kzNiGf12/siL8gZrEa5UhqNV9QbM26fBDFZjjeOoipyTY/Bpjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Egor\\RiderProjects\\ConsoleApp1\\ArraysExpansion\\ArraysExpansion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

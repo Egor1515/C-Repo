@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3hKXag26Tte3IvdOMmx3qh0EZhtlPxO5KClHc6D/z/f4w84UaNiIg4mJfPwKfWBsyKR6yKE3NC8+VNdrtoe+Pg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Egor\\RiderProjects\\ConsoleApp1\\AdventureGame\\AdventureGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

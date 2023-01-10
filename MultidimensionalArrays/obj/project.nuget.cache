@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m/quBEmz++fhrwQa37LeBtFsCeLq9EdPQ6gIFff2YIeLO5Fb94aHkk48pIIwK+P2IvL86MeOSvS+C84/8jcNvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Egor\\RiderProjects\\ConsoleApp1\\MultidimensionalArrays\\MultidimensionalArrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

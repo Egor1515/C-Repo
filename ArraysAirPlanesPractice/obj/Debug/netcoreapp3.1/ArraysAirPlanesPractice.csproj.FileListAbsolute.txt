@@ -1,0 +1,13 @@
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArraysAirPlanesPractice\bin\Debug\netcoreapp3.1\ArraysAirPlanesPractice.exe
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArraysAirPlanesPractice\bin\Debug\netcoreapp3.1\ArraysAirPlanesPractice.deps.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArraysAirPlanesPractice\bin\Debug\netcoreapp3.1\ArraysAirPlanesPractice.runtimeconfig.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArraysAirPlanesPractice\bin\Debug\netcoreapp3.1\ArraysAirPlanesPractice.runtimeconfig.dev.json
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArraysAirPlanesPractice\bin\Debug\netcoreapp3.1\ArraysAirPlanesPractice.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArraysAirPlanesPractice\bin\Debug\netcoreapp3.1\ArraysAirPlanesPractice.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArraysAirPlanesPractice\obj\Debug\netcoreapp3.1\ArraysAirPlanesPractice.csproj.AssemblyReference.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArraysAirPlanesPractice\obj\Debug\netcoreapp3.1\ArraysAirPlanesPractice.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArraysAirPlanesPractice\obj\Debug\netcoreapp3.1\ArraysAirPlanesPractice.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArraysAirPlanesPractice\obj\Debug\netcoreapp3.1\ArraysAirPlanesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArraysAirPlanesPractice\obj\Debug\netcoreapp3.1\ArraysAirPlanesPractice.dll
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArraysAirPlanesPractice\obj\Debug\netcoreapp3.1\ArraysAirPlanesPractice.pdb
+C:\Users\Egor\RiderProjects\ConsoleApp1\ArraysAirPlanesPractice\obj\Debug\netcoreapp3.1\ArraysAirPlanesPractice.genruntimeconfig.cache

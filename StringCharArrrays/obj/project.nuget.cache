@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eDoBuUD6ZZiFv3fLxW9uygHWlknGr5kFEBIMnGB5Hvq9ER2pu/b6mvytaot8XoCiPR2k9GEpUTqcLKGt8CNBlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Egor\\RiderProjects\\ConsoleApp1\\StringCharArrrays\\StringCharArrrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Egor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
